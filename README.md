@@ -1,4 +1,4 @@
-# STUDENT MANAGEMENT SYSTEM Uing MySQL + Python + Tkinter
+# STUDENT MANAGEMENT SYSTEM Using MySQL + Python + Tkinter
 
 import tkinter as tk
 from tkinter import messagebox, ttk
